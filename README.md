@@ -34,9 +34,7 @@ The model was developed using a dataset with key customer information and behavi
 
 Below is a snapshot of the dataset used in this project:
 
-![Dataset Snapshot](path/to/dataset_snapshot.png)
-
-*Replace `path/to/dataset_snapshot.png` with the actual path to the image file in the repository.*
+![Dataset](https://github.com/user-attachments/assets/5ae64fc8-a91d-4a32-980f-46f1a21beb1c)
 
 ## Solution Approach
 
